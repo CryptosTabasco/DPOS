@@ -8,10 +8,16 @@ The main goal of this application is to descentralized the wallet into multiple 
 Will hold the private keys and full wallet, also listeners to be able to send communication through RPC protocol. 
 Additional company centric services like connectivity with an address book and a web interface.
 
-### The clientt 
+### The client
 Will hold a calculator POS to insert quantity or programable interface for set products or menus with set price.
 Exchange communication and request to the server for charging address and generate a QR with the total amount to charge.
 Bring third party data like employee ID and log history through third party server datapoints.
 
+### Specs
+Applications should be for mobile platforms,the server should have a desktop or mobile version.
+_Electron_ and _NodeJS_ is recomended.
+
 ## Contributors
-JZA
+* JZA
+* Aaron
+* Gartox
